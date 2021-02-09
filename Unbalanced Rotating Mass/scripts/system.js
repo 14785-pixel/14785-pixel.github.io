@@ -47,7 +47,7 @@ class System  {
         rect(80, 440, this.width, 10)
         // damper
         strokeWeight(3);
-        stroke(0, 0, 255)
+        stroke(0, 0, 0)
         line(215, 440, 215, 410);
         line(215, 410, 230, 410);
         line(215, 410, 200, 410);
